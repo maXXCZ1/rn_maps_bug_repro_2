@@ -12,8 +12,7 @@ Icnlude **maps api key** into your ```./Android/app/src/main/AndroidManifest```
       android:value="::::: HERE :::::"``
 
 ## Step 3:
-Clean android build
-start project
+Clean android build and start project
 
 On map screen, there are 10 markers represented by react-native-vector-icons. 
 Tap on navigate to new stack screen.
@@ -22,4 +21,4 @@ In new screen tap on remove some markers and return button. Some of markers will
 Then you can reset markers on mapscreen, so they will overlap.
 
 Tap on navigate to new stack screen again.
-Once you visit another screen with buttons **AGAIN** and press only return to map screen. Default map marker placeholders will **disappear** and only marker icons will be visible!
+Once you visit another screen with buttons **AGAIN** press only return to map screen. Default map marker placeholders will **disappear** and only marker icons will be visible!
