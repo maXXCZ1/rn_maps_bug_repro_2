@@ -7,9 +7,9 @@ run Yarn/npm install in root directory
 ## Step 2: 
 Icnlude **maps api key** into your ```./Android/app/src/main/AndroidManifest```
 
-``` <meta-data
+`` <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="::::: HERE :::::"```
+      android:value="::::: HERE :::::"``
 
 ## Step 3:
 Clean android build
@@ -17,7 +17,7 @@ start project
 
 On map screen, there are 10 markers represented by react-native-vector-icons. 
 Tap on navigate to new stack screen.
-In new screen tap on remove some markers and return button. Some of markers will be replaced by default mapmarkers.
+In new screen tap on remove some markers and return button. Some of markers will be removed, but also replaced by default mapmarkers.
 
 Then you can reset markers on mapscreen, so they will overlap.
 
