@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-Only for Android, not ran or tested on iOS at all.
+ This project is targeted only to Android, not ran or tested on iOS at all.
 
 ## Step 1: 
 Clone repo.
